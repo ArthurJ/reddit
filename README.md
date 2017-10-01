@@ -12,6 +12,10 @@ You can also chat with us via IRC in [#reddit-dev on freenode](http://webchat.fr
 
 ---
 
+### Useful
+
+https://blog.jetbrains.com/pycharm/2017/09/hacking-reddit-with-pycharm/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
+
 ### Quickstart
 
 To set up your own instance of reddit to develop with, we have a handy [install script for Ubuntu](https://github.com/reddit/reddit/wiki/reddit-install-script-for-Ubuntu) that will automatically install and configure most of the stack.
